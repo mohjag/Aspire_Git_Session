@@ -1,11 +1,14 @@
 .header {
     float: right;
+    position: static;
 }
-
+.pwd {
+    float: left;
+}
 .username {
     position: static;
 }
-
 body {
     color: green;
+    position: static;
 }
